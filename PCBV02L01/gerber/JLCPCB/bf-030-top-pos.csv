@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100u,BF@CP_Elec_6.3x5.3,8,16.5,0,top
+C2,100n,BF@C_0603_1608Metric,9.5,22.5,180,top
+D1,B5819W,BF@D_SOD-123,33.5,22.5,0,top
+D2,LED,BF@LED_0603_1608Metric,11.76,41.5,0,top
+F1,1A,BF@Fuse_1206_3216Metric,33.4,18,0,top
+R1,10k,BF@R_0603_1608Metric,25.75,20.75,180,top
+R2,10k,BF@R_0603_1608Metric,25.75,19,180,top
+R3,1k,BF@R_0603_1608Metric,25.75,17.25,180,top
+R4,1k,BF@R_0603_1608Metric,25.75,15.5,180,top
+R5,3.3k,BF@R_0603_1608Metric,7.95,41.5,0,top
+SW1,PU-BYP,SW_DIP_SPSTx04_Slide_KingTek_DSHP04TS_W7.62mm_P1.27mm,17.75,18,270,top

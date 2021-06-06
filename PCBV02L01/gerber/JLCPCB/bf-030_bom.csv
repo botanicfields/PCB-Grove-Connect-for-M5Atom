@@ -1,0 +1,17 @@
+Comment,Designator,Footprint,LCSC
+100u,C1,bf:BF@CP_Elec_6.3x5.3,C134749
+100n,C2,bf:BF@C_0603_1608Metric,C14663
+B5819W,D1,bf:BF@D_SOD-123,C8598
+LED,D2,bf:BF@LED_0603_1608Metric,C72043
+1A,F1,bf:BF@Fuse_1206_3216Metric,C126818
+M5Atom-1,J1,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal,
+M5Atom-2,J2,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal,
+I2C,J3,OPL_Connector:HW4-2.0-90D,
+ADC,J4,OPL_Connector:HW4-2.0-90D,
+RXTX,J5,OPL_Connector:HW4-2.0-90D,
+Barrel_Jack_Switch,J6,bf:BF@BarrelJack_Horizontal,
+10k,"R1,R2",bf:BF@R_0603_1608Metric,C25804
+1k,"R3,R4",bf:BF@R_0603_1608Metric,C21190
+3.3k,R5,bf:BF@R_0603_1608Metric,C22978
+PU-BYP,SW1,Button_Switch_SMD:SW_DIP_SPSTx04_Slide_KingTek_DSHP04TS_W7.62mm_P1.27mm,C319050
+M5Atom,U1,bf:BF@M5Atom,

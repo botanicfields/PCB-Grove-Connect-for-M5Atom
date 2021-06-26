@@ -6,8 +6,7 @@ a PCB to add 3 Grove Connectors to M5Atom
 M5Atom のピンソケット (GPIO) を GROVE コネクタに変換する基板です。
 GROVE ケーブルによるデバイスの接続が簡単になります。
 
-<img src="./image/front.jpg" width=300>
-<img src="./image/back.jpg" width=300>
+<img src="./image/front.jpg" width=300> <img src="./image/back.jpg" width=300>
 
 ## 1. 特徴
 
@@ -30,8 +29,7 @@ GROVE ケーブルによるデバイスの接続が簡単になります。
 ## 使用例
 「ENV ユニット」(I2C)、「M5 用光センサ・押しボタン 5 基板」(アナログ)、「DFPlayer-Mini用 Grove 接続基板」(UART) を同時接続し、USB-C または DC 5V 電源を接続しています。動作に使用したプログラム BF-030.ino は、温度・湿度・気圧・周囲の明るさをシリアルモニタに定期的に表示する一方、押しボタンで楽曲の演奏を制御（次の曲、前の曲、音量増、音量減、USB/microSD 切替）できます。
 
-<img src="./image/USB.JPEG" width=300>
-<img src="./image/DC.JPEG" width=300>
+<img src="./image/USB.JPEG" width=300> <img src="./image/DC.JPEG" width=300>
 
 ## 3. 詳細
 

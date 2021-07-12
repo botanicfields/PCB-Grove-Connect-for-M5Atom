@@ -6,6 +6,9 @@ a PCB to add 3 Grove Connectors to M5Atom
 M5Atom のピンソケット (GPIO) を GROVE コネクタに変換する基板です。
 GROVE ケーブルによるデバイスの接続が簡単になります。
 
+委託販売（スイッチサイエンス）：  
+https://www.switch-science.com/catalog/7309/
+
 <img src="./image/front.jpg" width=300> <img src="./image/back.jpg" width=300>
 
 ## 1. 特徴

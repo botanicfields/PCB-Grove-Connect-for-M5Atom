@@ -78,7 +78,7 @@ void loop()
       default: dfpm_select = 0;  break;
     }
 
-  static int ambient_last_ms(0);
+  static unsigned int ambient_last_ms(0);
   if (millis() - ambient_last_ms > 10000) {  // every 10sec
     float tmp = dht12.readTemperature();
     float hum = dht12.readHumidity();
